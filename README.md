@@ -10,5 +10,3 @@ Skills: NODE JS / REACT / JS / HTML / CSS / FIGMA
 - 📫 How to reach me: apoorvaviresh347@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/apoorvaaxo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/apoorva-viresh-d-45a320259//)  
-
