@@ -6,7 +6,7 @@
 👩🏻‍🎓 Studying at Jyothy Institute of Technology, Bangalore<br/>
 🎨 Passionate about both art and technology, I bring a unique blend of creativity and technical expertise to my web development projects. With a love for canvas painting and pencil sketching,       my artistic touch naturally extends into designing visually appealing and user-centric websites. 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoorvaa.vd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorva-viresh-d) 
 
 # 💻 Tech Stack:
@@ -14,6 +14,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvaaxo&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### 😃Giggle Time!
+# 😃Giggle Time!
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
