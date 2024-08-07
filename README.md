@@ -2,8 +2,8 @@
 
 # 👋 Hi, I'm Apoorva Viresh D!
 <img width="1834" alt="myreadme" src="https://github.com/user-attachments/assets/6089b653-4c80-4100-8a4c-16c81588b521">
-👩🏻‍💻 A Computer Science student<br/>
-👩🏻‍🎓 Studying at Jyothy Institute of Technology, Bangalore<br/>
+👩🏻‍💻 I'm a Computer Science student,<br/>
+👩🏻‍🎓 Studying at Jyothy Institute of Technology, Bangalore.<br/>
 🎨 Passionate about both art and technology, I bring a unique blend of creativity and technical expertise to my web development projects. With a love for canvas painting and pencil sketching,       my artistic touch naturally extends into designing visually appealing and user-centric websites. 
 
 # 🌐 Socials:
