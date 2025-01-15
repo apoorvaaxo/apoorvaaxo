@@ -3,7 +3,9 @@
 
 <img width="1834" alt="myreadme" src="https://github.com/user-attachments/assets/6089b653-4c80-4100-8a4c-16c81588b521">
 👩🏻‍🎓 Studying at Jyothy Institute of Technology, Bangalore.<br/>
-🎨 Passionate about both art and technology, I bring a unique blend of creativity and technical expertise to my web development projects. With a love for canvas painting and pencil sketching,       my artistic touch naturally extends into designing visually appealing and user-centric websites. 
+🎨 Aspiring Machine Learning Engineer with hands-on experience in full-stack development and a strong curiosity for AI
+driven solutions. Passionate about leveraging machine learning and deep learning techniques to solve real-world challenges
+ and contribute to cutting-edge innovations
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoorvaa.vd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorva-viresh-d) 
