@@ -2,8 +2,8 @@
 ![image](https://github.com/user-attachments/assets/f642790b-b18d-49b8-9363-545c9b636af4)
 
 
-👩🏻‍🎓 Final year student at Jyothy Institute of Technology, Bangalore.<br/>
-🎨 Aspiring Machine Learning Engineer with hands-on experience in full-stack development and a strong curiosity for AI
+-> Final year student at Jyothy Institute of Technology, Bangalore.<br/>
+-> Aspiring Machine Learning Engineer with hands-on experience in full-stack development and a strong curiosity for AI
 driven solutions. Passionate about leveraging machine learning and deep learning techniques to solve real-world challenges
  and contribute to cutting-edge innovations
 
