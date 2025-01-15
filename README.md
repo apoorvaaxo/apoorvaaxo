@@ -1,8 +1,7 @@
 <!-- Level 3: Add custom code -->
 
 
-<img width="1834" alt="myreadme" src="https://github.com/user-attachments/assets/6089b653-4c80-4100-8a4c-16c81588b521">
-👩🏻‍🎓 Studying at Jyothy Institute of Technology, Bangalore.<br/>
+👩🏻‍🎓 Final year student at Jyothy Institute of Technology, Bangalore.<br/>
 🎨 Aspiring Machine Learning Engineer with hands-on experience in full-stack development and a strong curiosity for AI
 driven solutions. Passionate about leveraging machine learning and deep learning techniques to solve real-world challenges
  and contribute to cutting-edge innovations
