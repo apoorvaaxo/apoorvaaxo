@@ -3,10 +3,7 @@
 
 
 
--> Final year student at Jyothy Institute of Technology, Bangalore.<br/>
--> Aspiring Machine Learning Engineer with hands-on experience in full-stack development and a strong curiosity for AI
-driven solutions. Passionate about leveraging machine learning and deep learning techniques to solve real-world challenges
- and contribute to cutting-edge innovations
+👩‍💻 Aspiring AI Model Developer with a passion for Generative AI (GenAI) and Natural Language Processing (NLP). Currently interning at Digi9, I’m exploring LLM architectures, prompt engineering, and real-world NLP applications like text classification and sentiment analysis. Eager to learn, innovate, and contribute to building intelligent AI solutions.
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/apoorvaa.vd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/apoorva-viresh-d) 
