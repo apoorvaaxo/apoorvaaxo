@@ -1,5 +1,5 @@
 <!-- Level 3: Add custom code -->
-![image](https://github.com/user-attachments/assets/f642790b-b18d-49b8-9363-545c9b636af4)
+
 
 
 -> Final year student at Jyothy Institute of Technology, Bangalore.<br/>
